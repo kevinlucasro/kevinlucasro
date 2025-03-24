@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Dias 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://kebinnho.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://kevinlcas.com)
 [![twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kebinzinhoo)
 
 ![Kevin Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlucasro&show_icons=true&theme=dracula)
